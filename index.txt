@@ -1,1 +1,1 @@
-test file  ghost
+test file  ghost protocol
